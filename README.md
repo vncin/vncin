@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/vncin">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vncin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vncin&layout=compact&langs_count=5&theme=great-gatsby"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vncin&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vncin&layout=compact&langs_count=5&theme=great-gatsby"/>
 </div>
   
 <div style="display: inline_block"><br>
