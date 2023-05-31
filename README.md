@@ -1,8 +1,8 @@
 ### Hi everyone, I'm Vinicius "vncin" Dantas 👋🤘
 
 
-- 🔭 I’m currently working on ... (not yet) 
-- 🌱 I’m currently learning Computer Vision on CIn/UFPE
+- 🔭 I’m currently working on SENAC and SENAI 
+- 🌱 I’m recently completed a specialization in Computer Vision on CIn/UFPE
 - 👯 I’m looking to collaborate on python / machine learing / deep learning / computer vision
 - 🤔 I’m looking for help with everything (I'm very curious, so deppend of situation) 
 - 💬 Ask me about programming logic, computer vision, music 
